@@ -6,7 +6,7 @@ const CACHE_NAME = 'APP_PREFIX + VERSION';
   '/',
    '/index.html',
    './js/index.js',
-   './js/indexedDB.js',
+   './js/idb.js',
    './manifest.json',
    './css/styles.css',
    './icons/icon-72x72.png',

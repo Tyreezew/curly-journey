@@ -22,6 +22,9 @@ The user should clone the repository from Github. After, install the dependencie
 The application allows for users to create and track new budgeted transactions (deposits or withdraws) with or without an internet connection. 
 # License
 This project is licensed under MIT
+
+# Contribution
+
 # Tests
 N/A
 # Questions 

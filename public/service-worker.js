@@ -8,7 +8,7 @@ const CACHE_NAME = 'APP_PREFIX + VERSION';
    './js/index.js',
    './js/indexedDB.js',
    './manifest.json',
-   './css/style.css',
+   './css/styles.css',
    './icons/icon-72x72.png',
    './icons/icon-96x96.png',
    './icons/icon-128x128.png',

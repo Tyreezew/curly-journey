@@ -23,6 +23,9 @@ SO THAT my account balance is accurate when I am traveling
 The user should clone the repository from Github. After, install the dependencies using npm i. To run the server, run npm start in the terminal.
 # Usage
 The application allows for users to create and track new budgeted transactions (deposits or withdraws) with or without an internet connection. 
+![Screen Shot 2022-03-08 at 8 57 38 PM](https://user-images.githubusercontent.com/43646678/157364186-189bbcb0-8f79-4d4a-8a5c-28a484154842.png)
+
+
 # License
 This project is licensed under MIT
 
